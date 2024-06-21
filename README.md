@@ -10,7 +10,7 @@ Features
         Track borrowing details including which borrower borrowed which book, borrowing date, and expected return date.
         Calculate late return fines based on the number of days past the expected return date.
     Fine Calculation:
-        Automatically calculates fines for late returns based on pre-defined rules (e.g., per-day fine).
+        Automatically calculates fines for late returns based on pre-defined rules (e.g. per-day fine).
 
 Requirements
     1. Python 3.x
